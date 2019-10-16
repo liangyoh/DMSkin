@@ -1,13 +1,22 @@
+## 与源码无关内容
+#### 1.如果你有XAML相关的外包需求，可以通过QQ或微信与我取得联系。(QQ:"944095635" 微信号:"qq944095635")
+#### 2.我正在找工作，成都软件园附近，WPF偏XAML前端的。
+
+
+## 基于DMSkin开发的PC项目，现在运营中你可以前往Steam下载体验。
+[Wallpaper Maker](https://store.steampowered.com/app/1010800)
+<img src="https://raw.githubusercontent.com/944095635/DMSkin/master/Docs/Image/wall.jpg" align="center">
+
+
 # DMSkin
-
 ## 目前可以使用,但是内容较少,持续更新中
-
 #### 介绍
 #### 这是一个全新的项目，快速开发WPF客户端的框架。
 #### 内容：MVVM 框架模块 + DesignLibrary 控件样式库
 #### 开发PC客户端 一套搞定
 
 <img src="https://raw.githubusercontent.com/944095635/DMSkin/master/Docs/Image/Demo1.png" align="center">
+<img src="https://raw.githubusercontent.com/944095635/DMSkin/master/Docs/Image/Demo2.png" align="center">
 
 ## 1.开发&编译&环境&问题
 
@@ -77,11 +86,13 @@ Windows XP 请自行测试,
 
 
 #### 2.3 DMSkin.Core模块(DMSkin.Core.dll)
-> Execute(跨线程UI调度器) [[使用文档]](https://github.com/944095635/DMSkin/wiki/Execute%E8%B7%A8%E7%BA%BF%E7%A8%8BUI%E8%B0%83%E5%BA%A6%E5%99%A8)
+> UIExecute(跨线程UI调度器) [[使用文档]](https://github.com/944095635/DMSkin/wiki/Execute%E8%B7%A8%E7%BA%BF%E7%A8%8BUI%E8%B0%83%E5%BA%A6%E5%99%A8)
 
 > Broadcast(广播器) [[使用文档]](https://github.com/944095635/DMSkin/wiki/Broadcast%E5%B9%BF%E6%92%AD%E5%99%A8)
 
 > TaskManager(Task管理器)
+
+> Storage(内容存储器)
 
 > DelegateCommand(ICommand实现)
 
